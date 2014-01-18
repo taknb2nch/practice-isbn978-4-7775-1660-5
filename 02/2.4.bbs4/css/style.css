@@ -1,0 +1,15 @@
+.message {
+	border: solid 1px #000000;
+}
+
+.author {
+	font-weight: bold;
+}
+
+.content {
+	text-indent: 1em;
+}
+
+.post {
+	borer: solid 1px #000000;
+}
