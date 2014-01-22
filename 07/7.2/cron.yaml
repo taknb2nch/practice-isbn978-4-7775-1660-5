@@ -1,0 +1,8 @@
+cron:
+- description: testjob1
+  url: /testjob1
+  schedule: every 1 mins
+
+- description: testjob2
+  url: /testjob2
+  schedule: every 2 mins
